@@ -26,8 +26,9 @@
 
 **1.2 Publico objetivo**
 
+| Concepto | Descripción |
+| --- | --- |
 | Edad: | 25 - 45 años |
-<!-- | --- | --- | -->
 | Nivel educativo: | Licenciatura trunca |
 | Industria: | Indiferente |
 | Redes Sociales: | Facebook, LinkedIn y Twitter |
