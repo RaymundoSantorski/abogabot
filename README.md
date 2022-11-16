@@ -27,25 +27,16 @@
 **1.2 Publico objetivo**
 
 | Edad: | 25 - 45 años |
-| --- | --- |
+<!-- | --- | --- | -->
 | Nivel educativo: | Licenciatura trunca |
 | Industria: | Indiferente |
 | Redes Sociales: | Facebook, LinkedIn y Twitter |
 | Canales de comunicación: | Teléfono, WhatsApp, E-mail |
-| Herramientas de trabajo: | Correo electrónico
-Sistemas contables
-Excel |
-| Responsabilidades: | Gestión de personal
-Gestión de recursos
-Inventario |
-| Metas: | Gerente en su empresa
-Crear su propia empresa |
-| Obtiene información de: | Encuestas
-Rankings
-Opiniones en foros especializados |
-| Dificultades principales: | Problemas legales
-Relaciones comerciales con 
-   proveedores y con clientes |
+| Herramientas de trabajo: | Correo electrónico, Sistemas contables, Excel |
+| Responsabilidades: | Gestión de personal, Gestión de recursos, Inventario |
+| Metas: | Gerente en su empresa, Crear su propia empresa |
+| Obtiene información de: | Encuestas, Rankings, Opiniones en foros especializados |
+| Dificultades principales: | Problemas legales, Relaciones comerciales con proveedores y con clientes |
 
 **1.3 Uso objetivo**
 
